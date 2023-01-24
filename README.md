@@ -10,6 +10,12 @@
 
 Полное резюме на HH - [Резюме](https://voronezh.hh.ru/applicant/resumes/view?resume=fbd71642ff0b7afbce0039ed1f737038473832)
 
-### Портфолио 
+## Портфолио 
 
-* Решение задач
+* Решение задач С# 
+1. [Пример 1](https://github.com/Zemburych/ZADACHI100.git)
+2. [Пример 2](https://github.com/Zemburych/HOMEwork02.git)
+3. [Пример 3](https://github.com/Zemburych/Itog.git)
+4. [Пример 4](https://github.com/Zemburych/Seminar07.git)
+5. [Пример 5](https://github.com/Zemburych/Seminar08.git)
+6. [Пример 6](https://github.com/Zemburych/Seminar09.git)
