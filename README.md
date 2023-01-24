@@ -19,3 +19,24 @@
 4. [Пример 4](https://github.com/Zemburych/Seminar07.git)
 5. [Пример 5](https://github.com/Zemburych/Seminar08.git)
 6. [Пример 6](https://github.com/Zemburych/Seminar09.git)
+
+* Создание [тест-кейсов](https://docs.google.com/spreadsheets/d/1-lSaqgG6rMfuUhtcYBRCVFitoplysJLe/edit?usp=sharing&ouid=103849913720268037547&rtpof=true&sd=true)
+
+* Создание [чек-листов](https://docs.google.com/spreadsheets/d/1-NBdSP-sgYfe_gwycdm3VqwvGEgeI5AJ/edit?usp=sharing&ouid=103849913720268037547&rtpof=true&sd=true)
+
+
+* Создание баг-репортов
+Задание:
+1.Заведение баг-репортов
+2.Опишите баг-репорт по видео. 
+3.*Перенесите баг-репорты в Jira
+[Таблица](https://docs.google.com/spreadsheets/d/1-gEn0v9VPeD9zSffYIyIge6eV3WKFQv1/edit#gid=1690327606)
+
+* Основы бэкенда: PHP и MySQL [Пример создания таблицы](https://drive.google.com/file/d/10YNmhQGb4D8vDAo_E6vpIIo3zrpG1mBv/view?usp=sharing)
+
+
+
+## Контакты
+[@KulakovskiySergey](https://t.me/KulakovskiySergey "Telegram channel")
+
+Телефон: +79611090660
